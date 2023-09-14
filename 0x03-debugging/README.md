@@ -1,0 +1,7 @@
+0 - In most projects, we often give you only one main file to test with. For example, this main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project:In most projects, we often give you only one main file to test with. For example, this main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project.
+
+1 - The code provided in 1-main.c causes an infinite loop. Your task is to comment out the part of the code that causes the infinite loop while maintaining the line count. You should not add or remove any lines of code. After making the necessary modifications, the output should display "Infinite loop incoming :(" followed by "Infinite loop avoided! \o/".
+
+2 - The existing code in 2-largest_number.c is supposed to find the largest of three integers. However, it currently produces incorrect results. Your task is to fix the code in 2-largest_number.c so that it correctly identifies and returns the largest number among the three integers.
+
+3 - The code in 3-print_remaining_days.c converts a date to the day of the year and determines the number of days left in the year, taking leap years into consideration. However, there are issues with handling leap years, resulting in incorrect output in some cases. Your task is to fix the print_remaining_days() function so that it correctly handles all dates and leap years.
